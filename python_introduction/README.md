@@ -5,4 +5,5 @@ Project Objectives<br><br>
 * Install Python on your system and set up a development environment to start writing Python code.
 * Explain the importance of indentation in Python code and how it contributes to code readability.
 * Write basic Python code following proper syntax guidelines.
-* This project lays the foundation for your Python programming journey, equipping you with the essential knowledge to begin writing simple Python programs and progress towards more complex concepts.
+
+<br>This project lays the foundation for your Python programming journey, equipping you with the essential knowledge to begin writing simple Python programs and progress towards more complex concepts.
