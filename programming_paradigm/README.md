@@ -15,4 +15,4 @@ By the end of this project, you should be able to:<br>
 * Write basic unit tests using Python’s unittest module to verify the functionality of your code.
 * Structure test cases effectively and understand how test runners work.
 
-<br><br>This project equips you with the foundational knowledge of OOP and exception handling in Python. These skills are essential for building well-structured, maintainable, and robust Python applications.
+<br>This project equips you with the foundational knowledge of OOP and exception handling in Python. These skills are essential for building well-structured, maintainable, and robust Python applications.
